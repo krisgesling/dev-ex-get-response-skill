@@ -2,7 +2,10 @@
 How to use the get_response method in a mycroft skill.
 
 ## About
+DO NOT USE.
+This was a quick first draft, it does not work.
 
+If you're interested in contributing please reach out via [Mycroft Chat](https://chat.mycroft.ai/community/messages/@gez-mycroft).
 
 ## Examples
 * "Ask me a question"
@@ -11,10 +14,9 @@ How to use the get_response method in a mycroft skill.
 krisgesling
 
 ## Category
-**Productivity**
+**Development**
 
 ## Tags
 #Dev
 #Example
 #Code
-
